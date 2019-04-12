@@ -1,0 +1,24 @@
+{
+    "MenuSection": [
+        {
+            "Items": [
+                {
+                    "title": "Chicken Over Rice",
+                    "price": 12,
+                }
+            ],
+            "name": "Lunch Specials"
+        },
+    
+    
+        {
+            "Items": [
+                {
+                    "title": "Chicken Over Rice",
+                    "price": 12,
+                }
+            ],
+            "name": "Dinner Specials"
+        }
+    ]
+}
